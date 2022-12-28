@@ -2,7 +2,7 @@
 Project to learn more python and discord API
 
 # Screenshot
-![My Image](dc-bot-print.PNG)
+![My Image](print-dcbot.PNG)
 
 # How to play
 Type the command '!p', after that the overview of the game will appear, then type the name of the country that appears. If you get the answer right the bot will react with ✅.(the names of the countries existing in the bot are located in the command '!fl')
